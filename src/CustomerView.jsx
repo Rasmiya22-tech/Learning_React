@@ -3,7 +3,7 @@ import React from 'react'
 const CustomerView = () => {
   return (
     <div>
-        <h3>Customer List</h3>
+        <h3>Customers List</h3>
       
     </div>
   )
